@@ -1,0 +1,6 @@
+# Definición de la gramática
+S -> A B
+A -> [a-zA-Z]+
+B -> [0-9]+
+
+
